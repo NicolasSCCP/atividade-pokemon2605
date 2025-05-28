@@ -4,4 +4,4 @@
 *CSS
 *JAVASCRIPT
 
-<img scr="src/images/image.png" alt="print"/>
+<img src="./src/images/image.png" alt="print">
